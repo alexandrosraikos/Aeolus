@@ -1,4 +1,4 @@
-package plory
+package main
 
 import "fmt"
 
